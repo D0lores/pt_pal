@@ -14,3 +14,6 @@
 自行把图标重新截图，可以适配他们家的其他游戏
 
 一键玩B站教程：https://space.bilibili.com/395603346
+
+
+![avatar](https://github.com/D0lores/pt_pal/blob/main/Screenshot_20240219-183945.png)
