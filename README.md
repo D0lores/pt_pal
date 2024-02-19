@@ -1,4 +1,4 @@
-基于一键玩(http://www.yijianwan.com/)开做的脚本
+基于一键玩 http://www.yijianwan.com/ 做的脚本
 
 限定1280*720分辨率，320DPI
 
