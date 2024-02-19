@@ -17,3 +17,5 @@
 
 
 ![avatar](https://github.com/D0lores/pt_pal/blob/main/Screenshot_20240219-183945.png)
+![avatar](https://github.com/D0lores/pt_pal/blob/main/Screenshot_20240219-183953.png)
+![avatar](https://github.com/D0lores/pt_pal/blob/main/Screenshot_20240219-183958.png)
